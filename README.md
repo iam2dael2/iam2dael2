@@ -15,5 +15,3 @@ Skills: Python, SQL, Power BI, Data Analytics, Machine Learning & Deep Learning
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iam2dael2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/iam2dael/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iam2dael/)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iam2dael2&show_icons=true)  
